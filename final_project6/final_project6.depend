@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1576920956 source:c:\users\amr-e\desktop\c programs\final_project6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"header.h"
+
+1576920956 c:\users\amr-e\desktop\c programs\final_project6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1576928158 source:e:\final_project6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"header.h"
+
+1576928158 e:\final_project6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1576928158 source:d:\downloads\programing\final_project6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"header.h"
+
+1576928158 d:\downloads\programing\final_project6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1576928158 source:d:\downloads\year_one_1st term\programing\final_project6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"header.h"
+
+1576928158 d:\downloads\year_one_1st term\programing\final_project6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
